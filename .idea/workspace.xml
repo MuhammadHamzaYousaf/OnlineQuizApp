@@ -24,8 +24,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/onlinequizapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/onlinequizapp/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/onlinequizapp/ResultActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/onlinequizapp/ResultActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/Quiz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/Quiz.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,22 +177,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="496" y="135" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1605425985116" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1605456904568">
+    <state width="1557" height="211" key="GridCell.Tab.0.bottom" timestamp="1605456978073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605456904568" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1605456904568">
+    <state width="1557" height="211" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
+    <state width="1557" height="211" key="GridCell.Tab.0.center" timestamp="1605456978073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605456904568" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1605456904568">
+    <state width="1557" height="211" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
+    <state width="1557" height="211" key="GridCell.Tab.0.left" timestamp="1605456978073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605456904568" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1605456904568">
+    <state width="1557" height="211" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
+    <state width="1557" height="211" key="GridCell.Tab.0.right" timestamp="1605456978073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605456904568" />
+    <state width="1557" height="211" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
     <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1605428503031">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

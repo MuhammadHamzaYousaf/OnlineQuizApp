@@ -42,8 +42,7 @@ public class MainActivity extends AppCompatActivity {
         String [] filedata=getResources().getStringArray(R.array.quiz);
         List<QuizQuestion> list= Collections.synchronizedList(new ArrayList<QuizQuestion>());
         for(int i = 0; i<filedata.length ; i++){
-
-            String [] q=filedata[i].split("\\#");
+             String [] q=filedata[i].split("\\!");
             QuizQuestion questions=new QuizQuestion();
             questions.question=q[0];
             questions.Option1=q[1];
