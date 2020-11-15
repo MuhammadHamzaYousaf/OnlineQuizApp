@@ -27,6 +27,7 @@ class QuizQuestion{
 public class MainActivity extends AppCompatActivity {
         int correct;
         TextView [] textView;
+
         RadioGroup [] radioGroup;
         Button SubmitQuizbtn;
         private String [] CorrectAnswer={"Mt. McKinley","skin","United States","blood","hydrogen and helium","HTML","Gypsum","learning","walked","Homonym","websites","HTTP","machine learning","glass","hyperlinks"};
@@ -39,10 +40,10 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.question9_textview),findViewById(R.id.question10_textview),findViewById(R.id.question11_textview),findViewById(R.id.question12_textview),findViewById(R.id.question13_textview),findViewById(R.id.question14_textview),findViewById(R.id.question15_textview)};
         radioGroup=new RadioGroup[]{findViewById(R.id.radigrp1),findViewById(R.id.radigrp2),findViewById(R.id.radigrp3),findViewById(R.id.radigrp4),findViewById(R.id.radigrp5),findViewById(R.id.radigrp6),findViewById(R.id.radigrp7),
         findViewById(R.id.radigrp8),findViewById(R.id.radigrp9),findViewById(R.id.radigrp10),findViewById(R.id.radigrp11),findViewById(R.id.radigrp12),findViewById(R.id.radigrp13),findViewById(R.id.radigrp14),findViewById(R.id.radigrp15)};
-        String [] filedata=getResources().getStringArray(R.array.quiz);
+        String []filedata = getResources().getStringArray(R.array.quiz);
         List<QuizQuestion> list= Collections.synchronizedList(new ArrayList<QuizQuestion>());
         for(int i = 0; i<filedata.length ; i++){
-             String [] q=filedata[i].split("\\!");
+             String [] q= filedata[i].split("\\!");
             QuizQuestion questions=new QuizQuestion();
             questions.question=q[0];
             questions.Option1=q[1];

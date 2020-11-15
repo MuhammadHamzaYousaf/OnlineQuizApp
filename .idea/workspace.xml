@@ -177,22 +177,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="496" y="135" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1605425985116" />
-    <state width="1557" height="211" key="GridCell.Tab.0.bottom" timestamp="1605456978073">
+    <state width="1557" height="211" key="GridCell.Tab.0.bottom" timestamp="1605457774211">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="211" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
-    <state width="1557" height="211" key="GridCell.Tab.0.center" timestamp="1605456978073">
+    <state width="1557" height="211" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605457774211" />
+    <state width="1557" height="211" key="GridCell.Tab.0.center" timestamp="1605457774211">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="211" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
-    <state width="1557" height="211" key="GridCell.Tab.0.left" timestamp="1605456978073">
+    <state width="1557" height="211" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605457774211" />
+    <state width="1557" height="211" key="GridCell.Tab.0.left" timestamp="1605457774211">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="211" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
-    <state width="1557" height="211" key="GridCell.Tab.0.right" timestamp="1605456978073">
+    <state width="1557" height="211" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605457774211" />
+    <state width="1557" height="211" key="GridCell.Tab.0.right" timestamp="1605457774211">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="211" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605456978073" />
+    <state width="1557" height="211" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605457774211" />
     <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1605428503031">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -201,5 +201,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="506" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1605453508748" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1605457998312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1605457998312" />
   </component>
 </project>
