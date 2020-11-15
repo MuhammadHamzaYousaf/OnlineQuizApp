@@ -25,7 +25,6 @@ public class ResultActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent againquiz=new Intent(ResultActivity.this,MainActivity.class);
-                againquiz.putExtra("correctans",Integer.toString(correctans));
                 startActivity(againquiz);
             }
         });
