@@ -76,4 +76,5 @@
     <string name="hyperlinks">hyperlinks</string>
     <string name="slider">slider</string>
     <string name="submit_quiz">Submit Quiz</string>
+    <string name="online_quiz">Online Quiz</string>
 </resources>

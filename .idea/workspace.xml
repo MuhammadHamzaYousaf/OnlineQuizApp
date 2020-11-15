@@ -7,8 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0de01a3-1070-4297-990a-5eb1d4b594d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Muhammad_Hamza.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/onlinequizapp/StartQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_start_quiz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/Quiz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/Quiz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +60,15 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_XL_API_22" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-15T07:10:03.605Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-1797949509">
+      <recent name="com.example.onlinequizapp" />
+    </key>
+    <key name="android.template.-917006393">
       <recent name="com.example.onlinequizapp" />
     </key>
   </component>
@@ -133,14 +146,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="380" y="185" key="AndroidCreateResourceDirectoryDialog" timestamp="1605442237927">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="185" key="AndroidCreateResourceDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1605442237927" />
     <state x="380" y="185" key="AndroidCreateResourceFileDialog" timestamp="1605441799881">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="380" y="185" key="AndroidCreateResourceFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1605441799881" />
-    <state x="659" y="260" key="AndroidCreateXmlResourceDialog" timestamp="1605425135340">
+    <state x="659" y="260" key="AndroidCreateXmlResourceDialog" timestamp="1605442220733">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="659" y="260" key="AndroidCreateXmlResourceDialog/0.0.1600.860@0.0.1600.860" timestamp="1605425135340" />
+    <state x="659" y="260" key="AndroidCreateXmlResourceDialog/0.0.1600.860@0.0.1600.860" timestamp="1605442220733" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1605428844329">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
