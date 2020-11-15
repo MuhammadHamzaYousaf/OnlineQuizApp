@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button submitquiz;
     private int correct;
-    int i=1;
+    int i=0;
     RadioGroup grp1,grp2,grp3,grp4,grp5,grp6,grp7,grp8,grp9,grp10,grp11,grp12,grp13,grp14,grp15;
     RadioButton btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn10,btn11,btn12,btn13,btn14,btn15;
     @Override
@@ -106,16 +106,20 @@ public class MainActivity extends AppCompatActivity {
                 arrayListAnswer.add("glass");
                 arrayListAnswer.add("hyperlinks");
 
-                for(String s : arrayList){
-                        if(s.equals(arrayListAnswer.get(i))){
-                            correct++;
-                        }
+                for(String s : arrayList) {
+                    if (s.equals(arrayListAnswer.get(i))) {
+                        correct++;
+                    }
+                    i++;
                 }
                 Toast.makeText(MainActivity.this, "Correct Answer:"+correct, Toast.LENGTH_SHORT).show();
+
                 Intent resultIntent=new Intent(MainActivity.this,ResultActivity.class);
+                resultIntent.putExtra("correct",Integer.toString(correct));
                 startActivity(resultIntent);
                 arrayList.clear();
                 arrayListAnswer.clear();
+                correct=0;
 
             }
         });

@@ -11,11 +11,12 @@ import android.widget.TextView;
 public class ResultActivity extends AppCompatActivity {
 
     Button Exit,Again;
+    int correctans=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
-        TextView textViewResult=findViewById(R.id.edittextresult);
+        TextView textViewResult=findViewById(R.id.textviewresult);
         Exit=(Button)findViewById(R.id.exitquiz);
         Again=(Button)findViewById(R.id.btnaginquiz);
         textViewResult.setText("Your Score is :"+getIntent().getStringExtra("correct"));
@@ -24,6 +25,7 @@ public class ResultActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent againquiz=new Intent(ResultActivity.this,MainActivity.class);
+                againquiz.putExtra("correctans",Integer.toString(correctans));
                 startActivity(againquiz);
             }
         });
@@ -31,7 +33,11 @@ public class ResultActivity extends AppCompatActivity {
         Exit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent homeIntent = new Intent(Intent.ACTION_MAIN);
+                homeIntent.addCategory( Intent.CATEGORY_HOME );
+                homeIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                startActivity(homeIntent);
+                System.exit(1);
             }
         });
     }

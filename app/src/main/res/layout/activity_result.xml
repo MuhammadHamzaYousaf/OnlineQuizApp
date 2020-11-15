@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".ResultActivity">
 
-    <EditText
-        android:id="@+id/edittextresult"
+    <TextView
+        android:id="@+id/textviewresult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Again Quiz"
-        android:layout_below="@+id/edittextresult"
+        android:layout_below="@+id/textviewresult"
         android:gravity="center_horizontal"
         android:layout_centerHorizontal="true"
         android:textStyle="bold"
