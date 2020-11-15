@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button submitquiz;
+    Button submitquiz,start;
     private int correct;
     int i=0;
     RadioGroup grp1,grp2,grp3,grp4,grp5,grp6,grp7,grp8,grp9,grp10,grp11,grp12,grp13,grp14,grp15;
@@ -123,5 +123,13 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+//        start.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent=new Intent(MainActivity.this,StartQuiz.class);
+//                startActivity(intent);
+//            }
+//        });
     }
 }

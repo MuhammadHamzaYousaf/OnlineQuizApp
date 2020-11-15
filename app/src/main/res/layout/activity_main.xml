@@ -773,6 +773,15 @@
             android:textSize="20sp"
             android:layout_below="@id/radigrp15"
             />
+        <Button
+            android:id="@+id/starquiz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:text="@string/submit_quiz"
+            android:textSize="20sp"
+            android:layout_below="@id/submitbtn"
+            />
 
     </RelativeLayout>
     </ScrollView>
